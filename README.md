@@ -37,7 +37,7 @@ CIDR notation is also supported:
 
 `` $ python main.py -i x.x.x.x/27 -o results.csv``
 
-####### Multiple IP queries
+###### Multiple IP queries
 
 Specific IP addresses and CIDR format can be submitted as a list for a bulk query. Use the ``-l`` 
 flag and ensure each entry is on a new line e.g.
